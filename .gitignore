@@ -1,0 +1,33 @@
+# Arquivos do sistema
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Ambiente virtual
+venv/
+env/
+.env/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+
+# Arquivos específicos para ignorar
+Profissao Cientista de Dados M30*.ipynb
+ALUGUEL_MOD12*.csv
+base_viajantes.csv
+CARRO_CLIENTES*.csv
+Mall_Customers.csv
+sub_forest.csv
+submissao_tree.csv
+test*.csv
+train*.csv
+winequality-red.csv
+
+# Manter apenas os arquivos do projeto
+!README.md
+!Profissao Cientista de Dados M33 A1 Pratique.ipynb
+!visualizations.ipynb
+!images/
+!requirements.txt
